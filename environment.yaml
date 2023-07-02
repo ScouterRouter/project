@@ -8,4 +8,4 @@ dependencies:
   - python >=3.10
   - pandas
   - matplotlib
-prefix: C:\Users\rdspr\anaconda3\envs\dstoolbox
+  - jupyterlab
